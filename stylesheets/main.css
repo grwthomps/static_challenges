@@ -1,0 +1,86 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
+
+.left {
+  text-align: left;
+  width: 70%;
+  padding-bottom: 20px;
+}
+
+.right {
+    text-align: right;
+    float: right;
+    line-height: 40px;
+    padding-right: 20px;
+}
+
+header {
+  color: white;
+  font-weight: bold;
+  background-color: #AA0000;
+  height: 50px;
+  padding-left: 20px;
+}
+
+nav {
+  background-color: #333333;
+  height: 40px;
+}
+
+section {
+  width: 1050px;
+  float: left;
+}
+
+.sidebar {
+  width: 350px;
+  float: right;
+  font-weight: bold;
+}
+
+p {
+  text-align: justify;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+h2 {
+  text-align: justify;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+}
+
+.login {
+  float: right;
+  line-height: 50px;
+  padding-right: 20px;
+}
+
+.landmarks {
+  float: left;
+  line-height: 50px;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 70px;
+  width: 100%;
+  color: white;
+  background-color: #333333;
+}
+
+.footer-text {
+  padding: 10px;
+}
